@@ -22,6 +22,11 @@ Welcome to my AdventureWorks Analytics Portfolio! This repository showcases data
   This file, with project overview and instructions
 
 ---
+## 📊 Data Source
+
+The data used in this repository is based on the **AdventureWorks** sample database provided by Microsoft.  
+You can find more information and download the database here:  
+[AdventureWorks Sample Databases - Microsoft](https://github.com/microsoft/sql-server-samples/releases/tag/adventureworks)
 
 ## 🚀 Projects Overview
 
